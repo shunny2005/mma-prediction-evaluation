@@ -1,0 +1,18 @@
+raw_name,canonical_name,reason
+Sergey Pavlovich,Sergei Pavlovich,"user-reported example; y/i transliteration of Russian name, surname identical, ghost side has 0 fights vs 12 real fights"
+Asu Almabaev,Asu Almabayev,"user-reported example; e/ye transliteration variant, ghost side has 0 fights vs 8 real fights"
+Elves Brenner,Elves Brener,"user-reported example; single-letter doubling variant (nn/n), ghost side has 0 fights vs 6 real fights"
+Darya Zheleznyakova,Daria Zhelezniakova,"direct evidence: both spellings fight Melissa Croden on the same date (2026-04-18) in canonical_fights.csv -- same bout recorded under two name spellings"
+Charlie Radtke,Charles Radtke,"direct evidence: both spellings fight Francisco Prado (2026-04-11) and Daniel Frunza (2025-11-01) on identical dates in canonical_fights.csv"
+Landon Vannata,Lando Vannata,"direct evidence: both spellings fight Darrius Flowers on the same date (2026-04-04) in canonical_fights.csv"
+Baysangur Susurkaev,Baisangur Susurkaev,"y/i transliteration of first name, surname identical (same pattern as Sergey/Sergei)"
+Alexandr Romanov,Alexander Romanov,"standard alternate transliteration of a well-established UFC heavyweight's name, surname identical"
+Nursulton Ruziboev,Nursultan Ruziboev,"a/o vowel transliteration variant, surname identical"
+Khalil Rountree,Khalil Rountree Jr.,"generational suffix only, first and last name identical"
+Michael Aswell,Michael Aswell Jr.,"generational suffix only, first and last name identical"
+Steve Garcia Jr.,Steve Garcia,"generational suffix only, first and last name identical"
+Phil De Fries,Philip De Fries,"standard nickname for Philip, surname identical"
+Raffael Cerqueira,Rafael Cerqueira,"single-letter doubling typo (Raffael/Rafael), surname identical"
+Carlo Pedersoli,Carlo Pedersoli Jr.,"direct evidence: both spellings' fight dates span the identical range (2018-05-27 to 2019-02-23) -- inconsistent recording of one person's usual ring name, not a father/son pair"
+Kai Kamaka,Kai Kamaka III,"continuous single career (2020-2026) with an overlapping transition fight date (2026-04-04) shared by both spellings, not a generational gap -- inconsistent recording of one person, not a father/son pair"
+

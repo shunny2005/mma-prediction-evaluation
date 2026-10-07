@@ -1,0 +1,11 @@
+{
+  "combiner_model_weight": 0.0954117244791181,
+  "combiner_market_weight": 1.0323126021477558,
+  "combiner_fit_on_n_pre2025_fights": 3200,
+  "model_only_log_loss": 0.650704520716387,
+  "market_only_log_loss": 0.5759096531538653,
+  "combined_log_loss": 0.5744963157919529,
+  "model_only_accuracy": 0.6102819237147595,
+  "market_only_accuracy": 0.703150912106136,
+  "combined_accuracy": 0.6981757877280266
+}

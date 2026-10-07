@@ -1,0 +1,8 @@
+{
+  "metric": "accuracy",
+  "n": 835,
+  "point_diff_a_minus_b": 0.040718562874251574,
+  "ci_low_2_5pct": 0.0059880239520957446,
+  "ci_high_97_5pct": 0.07544910179640718,
+  "statistically_distinguishable_95pct": true
+}

@@ -1,0 +1,16 @@
+division,n,accuracy
+Lightweight,115.0,0.6347826086956522
+Middleweight,114.0,0.6052631578947368
+Featherweight,102.0,0.6078431372549019
+Bantamweight,93.0,0.6021505376344086
+Welterweight,92.0,0.5
+Flyweight,63.0,0.5238095238095238
+Light Heavyweight,62.0,0.6612903225806451
+Heavyweight,61.0,0.6229508196721312
+Women's Strawweight,50.0,0.66
+Women's Flyweight,35.0,0.7714285714285715
+Women's Bantamweight,33.0,0.5454545454545454
+Catch Weight,12.0,0.75
+Ultimate Fighter 33 Flyweight Tournament,1.0,1.0
+Ultimate Fighter 33 Welterweight Tournament,1.0,0.0
+Women's Featherweight,1.0,0.0

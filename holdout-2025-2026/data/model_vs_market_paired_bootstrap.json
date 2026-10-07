@@ -1,0 +1,26 @@
+{
+  "accuracy": {
+    "metric": "accuracy",
+    "n": 603,
+    "point_diff_a_minus_b": -0.09286898839137647,
+    "ci_low_2_5pct": -0.13764510779436157,
+    "ci_high_97_5pct": -0.04975124378109452,
+    "statistically_distinguishable_95pct": true
+  },
+  "log_loss": {
+    "metric": "log_loss",
+    "n": 603,
+    "point_diff_a_minus_b": 0.07479486756252163,
+    "ci_low_2_5pct": 0.04749199557235551,
+    "ci_high_97_5pct": 0.10296334715371404,
+    "statistically_distinguishable_95pct": true
+  },
+  "brier_score": {
+    "metric": "brier_score",
+    "n": 603,
+    "point_diff_a_minus_b": 0.03259867867808161,
+    "ci_low_2_5pct": 0.020408336327224125,
+    "ci_high_97_5pct": 0.044823037945311804,
+    "statistically_distinguishable_95pct": true
+  }
+}

@@ -1,0 +1,2 @@
+matchups_tested,mean_symmetry_error,median_symmetry_error,p95_symmetry_error,p99_symmetry_error,max_symmetry_error,count_gt_1e-6,count_gt_1e-4,count_gt_1e-3,count_gt_1e-2,order_caused_pick_flips
+4088,2.0944227010224996e-08,5.551115123125783e-17,7.000000001866624e-08,1.0000000005838672e-07,1.4999999997655777e-07,0,0,0,0,0
